@@ -1,0 +1,30 @@
+{
+    "BOT":{
+"username": "MamiZeka",
+"version": "1.16",
+"auth": "mojang",
+"password": ""
+},
+
+    "SERVER":{
+"host": "razecraftyedek.aternos.me",
+"port": "56530"
+},
+
+    "AUTO-AUTH":{
+"enabled": false,
+"password": "Mamibot_20202020"
+},
+
+    "ANTI-AFK":{
+"enabled": true
+},
+
+    "DASHBOARD":{
+"enabled": true
+},
+
+    "LOOKER":{
+"enabled": true
+}
+} 
